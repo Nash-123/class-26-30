@@ -1,0 +1,49 @@
+#cloudn't attend the class properly for four days due to my end semester exam's and also informed preeti ma'am through the mail for the same so would be greatful if you could consider
+
+Day 30
+MLOps Summary :
+->we learned about KNN(K Nearest Neighbours) it uses lazy learning approach. here we don't find weights, we just dump the data set. when we want to predict something we see the K nearest points and find the weight according to the probability according to the point that are near to the particular point.
+-> Here K is the hyperparameter and Nearest neighbours are found using euclidean algorithm.
+
+Day 29
+MLOps Summary :
+-> we discussed about the concepts of fine tuning and transfer learning.
+-> then discussed about freezing and unfreezing of layers.
+-> how to add/connect new layers pre-trained dataset and achieve accuracy.
+-> to we did hands on practical with a pre-trained dataset called mobilenet which uses imagenet.
+-> then we discussed about the concepts of over-fitting.
+
+
+Day 28
+MLOps Summary :
+->we discussed some advanced concepts of CNN, they were ResNet, VGG and Inception and did a practical on these 3 with imagenet dataset.
+-> discussed about pillow module, how it works with keras.
+-> some PIL module commands like show(), size(), crop(), resize(), save(), etc.
+
+DevOps Summary :
+-> we learned how to launch kubernetes with a program file through YAML file.
+-> learned how to code in yml file, syntax and keywords which are required to write the program file to launch kubernetes.
+
+
+
+Day 27
+MLOps Summary :
+-> we discussed about the next task that we have to to integrating ML with DevOps.
+-> then we continued with the concepts of CNN. CRP and leaky which can be used in CNN for the better results.
+-> then sir discussed about the tools that will be required to complete the given task.
+
+DevOps Summary :
+-> we revised what we did last class, then we discussed about the WebUI of the Kubernetes, learned how to use it with a practical, how to create a wordpress POD and MySQL POD and how to connect them.
+-> discussed some commands like set and expose.
+-> discussed about Multi-Tier-Architecture and role of Kubernetes in it.
+-> how to make data permanent with PVC concept.
+-> running multiple containers in a single POD.
+
+
+
+Day 26
+MLOps Summary :
+-> we revised the concepts of CNN Model and discussed about CPR (CRP==Convolution+Relu+Pooling) which is convolution layer, Relu, pooling layer and the number of layers of them that should be required feature extraction in an image. Pooling function is used to converting the image into array.
+-> we discussed about Lenet and Alexnet architecture in CNN, we discussed their differences and uses.
+-> we discussed the concepts of Augmented images on how we can create multiple images from a single image.
+-> we learned that when we put images in model for prediction it should be in 4D array , so we convert the 2D array of images to 4D array of that image because tenserflow uses 4D array.
